@@ -29,7 +29,8 @@
 - 웹로그분석
     + Google Analytics
 - 최종 웹사이트 화면
-![](img/donwload.png)
+
+![](/img/donwload.png)
 
 ## 교육과정 (데이터분석, AI etc, )
 - Udemy, Udacity, 
