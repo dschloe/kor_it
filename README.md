@@ -6,6 +6,7 @@
 - 그 외 기술: git, DevOps, MLOps(MlFlow, KubeFlow, AirFlow), Docker, Kubernetes, etc
 
 ### [kaggle](./kaggle/summary.md)
+000----
 - 000 challenge
 - 등수: 30 / 1000, 3%
 - 대회 설명
