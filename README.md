@@ -2,7 +2,7 @@
 - sss
 - sssssss
 000000000
-
+- dddd
 
 ## 프로젝트
 - 사용언어: Python, SQL, C, C++, MySQL, MS-SQL, Oracle
